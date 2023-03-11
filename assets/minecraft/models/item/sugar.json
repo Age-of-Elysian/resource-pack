@@ -1,0 +1,15 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/sugar"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "item/slimefun/resources/dust/tindust"},
+		{"predicate": {"custom_model_data": 2}, "model": "item/slimefun/resources/dust/silverdust"},
+		{"predicate": {"custom_model_data": 3}, "model": "item/slimefun/resources/dust/aluminumdust"},
+		{"predicate": {"custom_model_data": 4}, "model": "item/slimefun/resources/dust/zincdust"},
+		{"predicate": {"custom_model_data": 5}, "model": "item/slimefun/resources/dust/magnesium"},
+		{"predicate": {"custom_model_data": 6}, "model": "item/slimefun/resources/magnesiumsalt"}
+	]
+}

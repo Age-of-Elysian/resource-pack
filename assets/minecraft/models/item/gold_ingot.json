@@ -1,0 +1,17 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/gold_ingot"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "item/slimefun/resources/ingot/brassingot"},
+		{"predicate": {"custom_model_data": 2}, "model": "item/slimefun/resources/ingot/aluminumbrassingot"},
+		{"predicate": {"custom_model_data": 3}, "model": "item/slimefun/resources/ingot/aluminumbronzeingot"},
+		{"predicate": {"custom_model_data": 4}, "model": "item/slimefun/resources/ingot/corinthianbronzeingot"},
+		{"predicate": {"custom_model_data": 5}, "model": "item/slimefun/resources/ingot/gildediron"},
+		{"predicate": {"custom_model_data": 6}, "model": "item/slimefun/resources/ingot/blisteringingot1"},
+		{"predicate": {"custom_model_data": 7}, "model": "item/slimefun/resources/ingot/blisteringingot2"},
+		{"predicate": {"custom_model_data": 8}, "model": "item/slimefun/resources/ingot/blisteringingot3"}
+	]
+}

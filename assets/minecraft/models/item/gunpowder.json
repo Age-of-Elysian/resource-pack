@@ -1,0 +1,13 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/gunpowder"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "item/slimefun/resources/dust/irondust"},
+		{"predicate": {"custom_model_data": 2}, "model": "item/slimefun/resources/dust/leaddust"},
+
+		{"predicate": {"custom_model_data": 3}, "model": "item/slimefun/magicalitems/afterlifeessence"}
+	]
+}
