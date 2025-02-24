@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/slimefun/tools/lumber_axe_diamond"
+	}
+}

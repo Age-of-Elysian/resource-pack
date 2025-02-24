@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/clock_00"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "item/slimefun/cargo_gps/portable_geo_scanner"},
+		{"predicate": {"custom_model_data": 2}, "model": "item/slimefun/tools/multimeter"}
+	]
+}

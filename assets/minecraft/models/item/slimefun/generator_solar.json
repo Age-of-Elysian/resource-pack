@@ -1,0 +1,8 @@
+{
+	"parent": "block/orientable",
+	"textures": {
+		"side": "item/slimefun/generator_solar",
+		"front": "item/slimefun/generator_solar",
+		"top": "item/slimefun/generator_solar_top"
+	}
+}

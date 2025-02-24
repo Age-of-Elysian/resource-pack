@@ -1,0 +1,8 @@
+{
+	"parent": "block/orientable",
+	"textures": {
+		"side": "item/slimefun/reactor_nuclear_1",
+		"front": "item/slimefun/reactor_nuclear_2",
+		"top": "item/slimefun/reactor_top"
+	}
+}

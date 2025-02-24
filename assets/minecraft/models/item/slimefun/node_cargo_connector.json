@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "item/slimefun/node_cargo_connector"
+	}
+}

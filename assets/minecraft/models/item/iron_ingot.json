@@ -20,6 +20,9 @@
 		{"predicate": {"custom_model_data": 13}, "model": "item/slimefun/resources/ingot/leadingot"},
 		{"predicate": {"custom_model_data": 14}, "model": "item/slimefun/resources/ingot/aluminumingot"},
 		{"predicate": {"custom_model_data": 15}, "model": "item/slimefun/resources/ingot/zincingot"},
-		{"predicate": {"custom_model_data": 16}, "model": "item/slimefun/resources/ingot/magnesiumingot"}
+		{"predicate": {"custom_model_data": 16}, "model": "item/slimefun/resources/ingot/magnesiumingot"},
+		{"predicate": {"custom_model_data": 17}, "model": "item/slimefun/tools/cargo_wrench"},
+		{"predicate": {"custom_model_data": 18}, "model": "item/slimefun/tools/upgrade_tool"},
+		{"predicate": {"custom_model_data": 19}, "model": "item/slimefun/tools/dismantle_tool"}
 	]
 }

@@ -1,0 +1,8 @@
+{
+	"parent": "block/orientable",
+	"textures": {
+		"side": "item/slimefun/node_cargo_connector",
+		"front": "item/slimefun/node_cargo_connector",
+		"top": "item/slimefun/node_cargo_manager_top"
+	}
+}

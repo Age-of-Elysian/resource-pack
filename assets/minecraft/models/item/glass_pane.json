@@ -1,0 +1,9 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "block/glass"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "item/slimefun/magicalitems/magical_glass"}
+	]
+}

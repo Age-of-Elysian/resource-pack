@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/slimefun/weapons/grandpas_walking_stick"
+	}
+}

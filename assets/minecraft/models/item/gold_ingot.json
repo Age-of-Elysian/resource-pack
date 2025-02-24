@@ -12,6 +12,7 @@
 		{"predicate": {"custom_model_data": 5}, "model": "item/slimefun/resources/ingot/gildediron"},
 		{"predicate": {"custom_model_data": 6}, "model": "item/slimefun/resources/ingot/blisteringingot1"},
 		{"predicate": {"custom_model_data": 7}, "model": "item/slimefun/resources/ingot/blisteringingot2"},
-		{"predicate": {"custom_model_data": 8}, "model": "item/slimefun/resources/ingot/blisteringingot3"}
+		{"predicate": {"custom_model_data": 8}, "model": "item/slimefun/resources/ingot/blisteringingot3"},
+		{"predicate": {"custom_model_data": 9}, "model": "item/slimefun/tools/cargo_inspector"}
 	]
 }

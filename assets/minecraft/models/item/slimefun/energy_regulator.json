@@ -1,0 +1,8 @@
+{
+	"parent": "block/orientable",
+	"textures": {
+		"side": "item/slimefun/energy_regulator",
+		"front": "item/slimefun/energy_regulator",
+		"top": "item/slimefun/energy_regulator"
+	}
+}

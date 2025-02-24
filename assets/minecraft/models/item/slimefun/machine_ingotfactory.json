@@ -1,0 +1,8 @@
+{
+	"parent": "block/orientable",
+	"textures": {
+		"side": "item/slimefun/machine_ingotfactory",
+		"front": "item/slimefun/machine_ingotfactory",
+		"top": "item/slimefun/machine_ingotfactory_top"
+	}
+}

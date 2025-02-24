@@ -5,6 +5,37 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "item/slimefun/resources/syntheticemerald"}
+		{"predicate": {"custom_model_data": 1}, "model": "item/slimefun/resources/syntheticemerald"},
+		
+		{"predicate": {"custom_model_data": 2}, "model": "item/slimefun/magicalitems/talismans/common_talisman"},
+		{"predicate": {"custom_model_data": 3}, "model": "item/slimefun/magicalitems/talismans/ender_talisman"},
+		{"predicate": {"custom_model_data": 4}, "model": "item/slimefun/magicalitems/talismans/anvil_talisman"},
+		{"predicate": {"custom_model_data": 5}, "model": "item/slimefun/magicalitems/talismans/anvil_talisman_ender"},
+		{"predicate": {"custom_model_data": 6}, "model": "item/slimefun/magicalitems/talismans/miner_talisman"},
+		{"predicate": {"custom_model_data": 7}, "model": "item/slimefun/magicalitems/talismans/miner_talisman_ender"},
+		{"predicate": {"custom_model_data": 8}, "model": "item/slimefun/magicalitems/talismans/hunter_talisman"},
+		{"predicate": {"custom_model_data": 9}, "model": "item/slimefun/magicalitems/talismans/hunter_talisman_ender"},
+		{"predicate": {"custom_model_data": 10}, "model": "item/slimefun/magicalitems/talismans/lava_talisman"},
+		{"predicate": {"custom_model_data": 11}, "model": "item/slimefun/magicalitems/talismans/lava_talisman_ender"},
+		{"predicate": {"custom_model_data": 12}, "model": "item/slimefun/magicalitems/talismans/water_talisman"},
+		{"predicate": {"custom_model_data": 13}, "model": "item/slimefun/magicalitems/talismans/water_talisman_ender"},
+		{"predicate": {"custom_model_data": 14}, "model": "item/slimefun/magicalitems/talismans/angel_talisman"},
+		{"predicate": {"custom_model_data": 15}, "model": "item/slimefun/magicalitems/talismans/angel_talisman_ender"},
+		{"predicate": {"custom_model_data": 16}, "model": "item/slimefun/magicalitems/talismans/fire_talisman"},
+		{"predicate": {"custom_model_data": 17}, "model": "item/slimefun/magicalitems/talismans/fire_talisman_ender"},
+		{"predicate": {"custom_model_data": 18}, "model": "item/slimefun/magicalitems/talismans/magician_talisman"},
+		{"predicate": {"custom_model_data": 19}, "model": "item/slimefun/magicalitems/talismans/magician_talisman_ender"},
+		{"predicate": {"custom_model_data": 20}, "model": "item/slimefun/magicalitems/talismans/traveller_talisman"},
+		{"predicate": {"custom_model_data": 21}, "model": "item/slimefun/magicalitems/talismans/traveller_talisman_ender"},
+		{"predicate": {"custom_model_data": 22}, "model": "item/slimefun/magicalitems/talismans/warrior_talisman"},
+		{"predicate": {"custom_model_data": 23}, "model": "item/slimefun/magicalitems/talismans/warrior_talisman_ender"},
+		{"predicate": {"custom_model_data": 24}, "model": "item/slimefun/magicalitems/talismans/knight_talisman"},
+		{"predicate": {"custom_model_data": 25}, "model": "item/slimefun/magicalitems/talismans/knight_talisman_ender"},
+		{"predicate": {"custom_model_data": 26}, "model": "item/slimefun/magicalitems/talismans/caveman_talisman"},
+		{"predicate": {"custom_model_data": 27}, "model": "item/slimefun/magicalitems/talismans/caveman_talisman_ender"},
+		{"predicate": {"custom_model_data": 28}, "model": "item/slimefun/magicalitems/talismans/whirlwind_talisman"},
+		{"predicate": {"custom_model_data": 29}, "model": "item/slimefun/magicalitems/talismans/whirlwind_talisman_ender"},
+		{"predicate": {"custom_model_data": 30}, "model": "item/slimefun/magicalitems/talismans/wizard_talisman"},
+		{"predicate": {"custom_model_data": 31}, "model": "item/slimefun/magicalitems/talismans/wizard_talisman_ender"}
 	]
 }

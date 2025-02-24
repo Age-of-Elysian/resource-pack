@@ -5,6 +5,10 @@
 		{"predicate": {"custom_model_data": 2}, "model": "item/slimefun/resources/oilbucket"},
 		{"predicate": {"custom_model_data": 3}, "model": "item/slimefun/resources/fuelbucket"},
 
-		{"predicate": {"custom_model_data": 4}, "model": "item/slimefun/magicalitems/lavacrystal"}
+		{"predicate": {"custom_model_data": 4}, "model": "item/slimefun/magicalitems/lavacrystal"},
+		{"predicate": {"custom_model_data": 5}, "model": "item/slimefun/magicalitems/necrotic_skull"},
+		{"predicate": {"custom_model_data": 6}, "model": "item/slimefun/misc/magnet"},
+		{"predicate": {"custom_model_data": 7}, "model": "item/slimefun/misc/electromagnet"},
+		{"predicate": {"custom_model_data": 8}, "model": "item/slimefun/magicalitems/infused_magnet"}
 	]
 }

@@ -1,0 +1,8 @@
+{
+	"parent": "block/orientable",
+	"textures": {
+		"side": "item/slimefun/machine_panner",
+		"front": "item/slimefun/machine_panner",
+		"top": "item/slimefun/machine_panner_top"
+	}
+}

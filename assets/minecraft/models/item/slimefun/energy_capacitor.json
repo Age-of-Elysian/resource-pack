@@ -1,0 +1,8 @@
+{
+	"parent": "block/orientable",
+	"textures": {
+		"side": "item/slimefun/energy_capacitor",
+		"front": "item/slimefun/energy_capacitor",
+		"top": "item/slimefun/energy_capacitor_top"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/compass_16"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "item/slimefun/cargo_gps/portable_teleporter"}
+	]
+}

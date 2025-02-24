@@ -7,7 +7,10 @@
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "item/slimefun/resources/dust/irondust"},
 		{"predicate": {"custom_model_data": 2}, "model": "item/slimefun/resources/dust/leaddust"},
-
-		{"predicate": {"custom_model_data": 3}, "model": "item/slimefun/magicalitems/afterlifeessence"}
+		{"predicate": {"custom_model_data": 3}, "model": "item/slimefun/magicalitems/afterlifeessence"},
+		{"predicate": {"custom_model_data": 4}, "model": "item/slimefun/resources/sifted_ore"},
+		{"predicate": {"custom_model_data": 5}, "model": "item/slimefun/resources/crushed_ore"},
+		{"predicate": {"custom_model_data": 6}, "model": "item/slimefun/resources/pulverized_ore"},
+		{"predicate": {"custom_model_data": 7}, "model": "item/slimefun/resources/pure_ore_cluster"}
 	]
 }

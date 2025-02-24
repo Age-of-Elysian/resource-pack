@@ -1,0 +1,9 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "block/powered_rail"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "item/slimefun/resources/advanced_circuit_board"}
+	]
+}
