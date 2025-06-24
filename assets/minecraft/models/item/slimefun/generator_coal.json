@@ -1,8 +1,0 @@
-{
-	"parent": "block/orientable",
-	"textures": {
-		"side": "item/slimefun/generator_coal",
-		"front": "item/slimefun/generator_coal",
-		"top": "item/slimefun/generator_top_1"
-	}
-}

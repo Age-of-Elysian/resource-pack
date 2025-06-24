@@ -1,8 +1,0 @@
-{
-	"parent": "block/orientable",
-	"textures": {
-		"side": "item/slimefun/machine_cobblestonegenerator",
-		"front": "item/slimefun/machine_cobblestonegenerator",
-		"top": "item/slimefun/machine_cobblestonegenerator_top"
-	}
-}

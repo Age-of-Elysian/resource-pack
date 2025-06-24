@@ -1,7 +1,0 @@
-{
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "item/slimefun/tools/smelters_pickaxe",
-		"layer1": "item/slimefun/tools/pickaxe_lava"
-	}
-}

@@ -1,8 +1,0 @@
-{
-	"parent": "block/orientable",
-	"textures": {
-		"side": "item/slimefun/generator_magnesium",
-		"front": "item/slimefun/generator_magnesium",
-		"top": "item/slimefun/generator_top_1"
-	}
-}

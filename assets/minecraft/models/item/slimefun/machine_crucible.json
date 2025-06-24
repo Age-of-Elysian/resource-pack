@@ -1,8 +1,0 @@
-{
-	"parent": "block/orientable",
-	"textures": {
-		"side": "item/slimefun/machine_crucible",
-		"front": "item/slimefun/machine_crucible",
-		"top": "item/slimefun/machine_crucible_top"
-	}
-}

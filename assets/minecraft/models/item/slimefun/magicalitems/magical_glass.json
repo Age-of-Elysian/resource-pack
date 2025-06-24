@@ -1,6 +1,0 @@
-{
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "item/slimefun/magicalitems/magical_glass"
-	}	
-}

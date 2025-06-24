@@ -1,8 +1,0 @@
-{
-	"parent": "block/orientable",
-	"textures": {
-		"side": "item/slimefun/machine_oilpump",
-		"front": "item/slimefun/machine_oilpump",
-		"top": "item/slimefun/machine_oilpump_top"
-	}
-}

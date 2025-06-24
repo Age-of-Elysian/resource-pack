@@ -1,6 +1,0 @@
-{
-    "parent": "item/bow",
-    "textures": {
-        "layer0": "item/slimefun/weapons/icy_bow_2"
-    }
-}

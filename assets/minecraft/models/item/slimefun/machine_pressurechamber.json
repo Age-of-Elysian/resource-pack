@@ -1,8 +1,0 @@
-{
-	"parent": "block/orientable",
-	"textures": {
-		"side": "item/slimefun/machine_pressurechamber",
-		"front": "item/slimefun/machine_pressurechamber",
-		"top": "item/slimefun/machine_pressurechamber_top"
-	}
-}
