@@ -1,2 +1,2 @@
-§eWIP §a{date}
-§b{pack_format}
+§2Age of Elysian
+§a{date} §e{pack_format}
