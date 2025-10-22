@@ -1,2 +1,2 @@
 §2Age of Elysian
-§a{date} §e{pack_format}
+§a{date}
