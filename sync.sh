@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # --- Generate resource packs ---
-jar_name="slimepack-standalone-2.12-SNAPSHOT-all.jar"
+jar_name="slimepack-standalone-2.22-SNAPSHOT-all.jar"
 versions=("1.21.10" "1.21.9" "1.21.8" "1.21.7" "1.21.6" "1.21.5" "1.21.4")
 
 for version in "${versions[@]}"; do
